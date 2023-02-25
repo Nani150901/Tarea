@@ -1,6 +1,10 @@
 import java.awt.*; 
 import javax.swing.*;
-
+/*Instituto superior de jerez
+I.S.C.
+Topicos Avanzados de Programacion
+Anahi Garcia Flores
+*/
 class VentanaInicio extends JFrame{
 	public VentanaInicio() {
 		getContentPane().setLayout(null); 
