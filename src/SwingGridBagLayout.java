@@ -10,7 +10,7 @@ class VentanaInicio1 extends JFrame{
 		setDefaultCloseOperation(EXIT_ON_CLOSE);
 		setLocationRelativeTo(null);
 		setSize(300,400);
-		setTitle("Ventana Principal");
+		setTitle("Formulario");
 		setVisible(true);
 	
 		//componentes graficos (CREAR -> CONGIGURAR -> AGREGAR )
